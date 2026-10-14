@@ -1,0 +1,10 @@
+{
+  "description": "This AI-powered platform streamlines dental diagnosis and treatment planning, enabling dental professionals to efficiently manage patient data, assessments, and X-ray analyses for improved patient care.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
